@@ -1,0 +1,307 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass report
+\use_default_options true
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize a6paper
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation landscape
+\suppress_date false
+\use_refstyle 1
+\backgroundcolor #000000
+\fontcolor #ffffff
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+whoami
+\end_layout
+
+\begin_layout Author
+(C) Richèl Bilderbeek 
+\begin_inset Graphics
+	filename CC-BY-NC-SA.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Basic
+\end_layout
+
+\begin_layout Itemize
+Personality
+\end_layout
+
+\begin_layout Itemize
+Work
+\end_layout
+
+\begin_layout Itemize
+Communities
+\end_layout
+
+\begin_layout Itemize
+Teaching
+\end_layout
+
+\begin_layout Itemize
+Hobbies
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Personality
+\end_layout
+
+\begin_layout Itemize
+Freedom
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Knowledge should be free
+\end_layout
+
+\begin_layout Itemize
+Software should be free
+\end_layout
+
+\begin_layout Itemize
+People should be free
+\end_layout
+
+\begin_layout Itemize
+Accept choice for non-free
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Freedom is not free
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Button_Smaller_Fellow_No2987.png
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename no-facebook_25.png
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Work
+\end_layout
+
+\begin_layout Itemize
+PhD at COCON, supervised by Rampal Etienne
+\end_layout
+
+\begin_layout Itemize
+VICI: 'On the origin of species assemblages'
+\end_layout
+
+\begin_layout Itemize
+Theoretical work
+\end_layout
+
+\begin_layout Itemize
+Finding my niche
+\end_layout
+
+\begin_layout Itemize
+Can I increase the amount of freedom within the scientific community?
+\end_layout
+
+\begin_layout Itemize
+Do I want to be a member of the scientific community?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Communities
+\end_layout
+
+\begin_layout Itemize
+Hackerspace Hive5
+\end_layout
+
+\begin_layout Itemize
+Makerspace DIYbio
+\end_layout
+
+\begin_layout Itemize
+Maakplek ('Makespot')
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename hive5.png
+	lyxscale 20
+	scale 20
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename DIYBIO_Groningen_Logo_base.png
+	lyxscale 25
+	scale 85
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Teaching
+\end_layout
+
+\begin_layout Itemize
+Arduino course
+\end_layout
+
+\begin_layout Itemize
+C++
+\end_layout
+
+\begin_layout Itemize
+Maker course
+\end_layout
+
+\begin_layout Itemize
+Welding
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Hobbies
+\end_layout
+
+\begin_layout Itemize
+Programming, electronics, singer-songwriter, studying, skateboarding, stonecarvi
+ng, forging, welding, salsa dancing, ballroom dancing
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename CD06_CoverartFront.PNG
+	lyxscale 40
+	scale 35
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
