@@ -68,7 +68,17 @@ figs-within-sections
 \begin_body
 
 \begin_layout Title
-whoami
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://github.com/richelbilderbeek/whoami
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Author
@@ -98,7 +108,11 @@ Personality
 \end_layout
 
 \begin_layout Itemize
-Work
+Scientific work
+\end_layout
+
+\begin_layout Itemize
+Other work
 \end_layout
 
 \begin_layout Itemize
@@ -173,7 +187,7 @@ Freedom is not free
 \end_layout
 
 \begin_layout Section
-Work
+Scientific work
 \end_layout
 
 \begin_layout Itemize
@@ -198,6 +212,34 @@ Can I increase the amount of freedom within the scientific community?
 
 \begin_layout Itemize
 Do I want to be a member of the scientific community?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Other work
+\end_layout
+
+\begin_layout Itemize
+Develop open source applications
+\end_layout
+
+\begin_layout Itemize
+C++ training
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename ProjectBrainweaver_0_33.png
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -282,7 +324,7 @@ Hobbies
 
 \begin_layout Itemize
 Programming, electronics, singer-songwriter, studying, skateboarding, stonecarvi
-ng, forging, welding, salsa dancing, ballroom dancing
+ng, forging, welding, salsa dancing, ballroom dancing, visiting 'weird events'
 \end_layout
 
 \begin_layout Standard
